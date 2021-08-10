@@ -22,3 +22,5 @@
 > ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square)
 > ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)
 > ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat-square)
+
+[Homepage](https://ginazampino.com/) | [LinkedIn](https://www.linkedin.com/in/ginazampino/)
