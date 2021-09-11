@@ -1,4 +1,4 @@
-### Advocate to bring back "webmaster" as a job title.
+### Advocate to bring back "Webmaster" as a job title.
 
 > ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat-square)
 > ![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=flat-square)
