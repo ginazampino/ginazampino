@@ -1,4 +1,4 @@
-### Full-stack web developer with a passion for the front end.
+### Full-stack developer with a passion for the front end.
 
 > ![Adobe Photoshop Badge](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square) 
 > ![Adobe Illustrator Badge](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat-square)
