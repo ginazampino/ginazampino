@@ -21,4 +21,4 @@
 > ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
 > ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
 
-[Homepage](https://ginazampino.com/) | [LinkedIn](https://www.linkedin.com/in/ginazampino/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ginazampino/)
